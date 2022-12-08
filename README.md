@@ -4,6 +4,8 @@ This is the prerequired knowleg if you want to take the full deep dive into the 
 ## Solutions 
 - Magic numbers get replaced in the kernel Torvalds did finaly understood the reference and const principles of my book simplicity made easy
   - https://www.youtube.com/watch?v=CDFjicCvWsk
+  - Linux Patchset: https://lwn.net/ml/linux-kernel/cover...
+  - LWM article: https://lwn.net/SubscriberLink/915163...
 
 
 ## Networking Problems
